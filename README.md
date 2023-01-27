@@ -27,4 +27,4 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Ale-85](https://www.frontendmentor.io/profile/Ale-85)
